@@ -6,7 +6,7 @@ Pour cet exercice, un template de page web vous est fourni. Un problème cependa
 Votre tâche est de dynamiser les éléments suivants :
 - La modale (Section 5)
 - Ouvrir/fermer les menus du header au click
-  - Un click en dehors des menus doit les fermés également
+  - Un click en dehors des menus doit les fermer également
 - Retirer la banner du DOM quand on clique sur close (Section 2)
 - La vérification du formulaire (champs non vide) (Section 4)
 
